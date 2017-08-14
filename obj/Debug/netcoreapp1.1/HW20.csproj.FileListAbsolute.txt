@@ -1,0 +1,10 @@
+/Users/sethharden/classgit/HW20/bin/Debug/netcoreapp1.1/HW20.deps.json
+/Users/sethharden/classgit/HW20/bin/Debug/netcoreapp1.1/HW20.runtimeconfig.json
+/Users/sethharden/classgit/HW20/bin/Debug/netcoreapp1.1/HW20.runtimeconfig.dev.json
+/Users/sethharden/classgit/HW20/bin/Debug/netcoreapp1.1/HW20.dll
+/Users/sethharden/classgit/HW20/bin/Debug/netcoreapp1.1/HW20.pdb
+/Users/sethharden/classgit/HW20/obj/Debug/netcoreapp1.1/HW20.csprojResolveAssemblyReference.cache
+/Users/sethharden/classgit/HW20/obj/Debug/netcoreapp1.1/HW20.csproj.CoreCompileInputs.cache
+/Users/sethharden/classgit/HW20/obj/Debug/netcoreapp1.1/HW20.AssemblyInfo.cs
+/Users/sethharden/classgit/HW20/obj/Debug/netcoreapp1.1/HW20.dll
+/Users/sethharden/classgit/HW20/obj/Debug/netcoreapp1.1/HW20.pdb
